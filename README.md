@@ -4,6 +4,6 @@
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![Gitter](https://badges.gitter.im/material-extended/mde.svg)](https://gitter.im/material-extended/mde?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-The sources for this package are in the main [Angular Material](https://github.com/material-extended/mde) Extended repo. Please file issues and pull requests against that repo.
+The sources for this package are in the main [Angular Material Extended](https://github.com/material-extended/mde) repo. Please file issues and pull requests against that repo.
 
 License: MIT
